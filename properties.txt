@@ -1,0 +1,21 @@
+Properties:
+
+Tree
+------------
+Type of Tree
+Age
+NumberOfBranches
+Color
+Height
+etc.
+
+
+
+Person
+-------------
+FirstName
+LastName
+Age
+Height
+Weight
+etc.
